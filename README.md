@@ -31,8 +31,9 @@ This Sudoku game allows players to enjoy the classic puzzle game in a user-frien
 
 # How to Run
 
-- Clone repo : `https://github.com/kajalkumari2507/sudoku`
+- Clone repo : `https://github.com/adityapandey1111/sudoku`
 - Compile using : `javac -d bin sudokufile.java`
 - Run using : `java -cp bin sudokufile.java`
 
 # Screenshots
+![sudoku](https://github.com/adityapandey1111/sudoku/assets/114282369/3a141b0e-638d-40a5-8317-9dc2f3e419ab)
